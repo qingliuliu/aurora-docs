@@ -163,8 +163,8 @@ module.exports = {
             }
         ]
     ],
-    theme: path.resolve(__dirname, "../../Aurora-theme/lib/node/index.js"),
-    //theme: 'aurora',
+    //theme: path.resolve(__dirname, "../../Aurora-theme/lib/node/index.js"),
+    theme: 'aurora',
     title: '一款简洁.美观.功能强大的vuepress主题',
     themeConfig
 }
